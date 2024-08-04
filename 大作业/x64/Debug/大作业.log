@@ -1,0 +1,31 @@
+﻿  源.cpp
+C:\C1\大作业\源.cpp(457,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(503,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(547,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(553,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(559,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(564,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(776,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(798,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(801,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(802,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(804,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(815,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(820,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(823,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(824,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(838,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(844,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(850,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(922,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(949,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(951,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(978,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(1020,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(1034,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(1045,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(1061,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(1078,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(1082,87): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\C1\大作业\源.cpp(1136,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  大作业.vcxproj -> C:\C1\大作业\x64\Debug\大作业.exe
